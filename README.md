@@ -1,2 +1,1 @@
-Meu primeiro projeto no GIT
-Alterar o que quiser
+O README foi alterado e atualizado agora
